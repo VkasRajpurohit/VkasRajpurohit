@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hands-on experience leveraging ML & DL models to solve business problems | <br>End to End Data Science applications. 
+Highly skilled and detail-oriented Data Analyst | Experienced in leveraging Data Analytics and ML models to solve business problems | Proficient in end-to-end Data Science applications.
 
 
 ## 🌐 Socials:
