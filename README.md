@@ -8,7 +8,7 @@ Highly skilled and detail-oriented Data Analyst | Experienced in leveraging Data
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning%20-%20red?color=%23DB5B4B) 
-![PowerBI](https://img.shields.io/badge/-PowerBI-green?logo=powerbi&labelColor=7b2cbf&color=ffc300) 
+![PowerBI](https://img.shields.io/badge/-PowerBI-blue?logo=powerbi&labelColor=ffffff&color=ffffff)
 ![SQL/MySQL](https://img.shields.io/badge/-SQL%2FMySQL-blue?logo=mysql&labelColor=ffc6ff&color=ffc6ff) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
