@@ -4,6 +4,8 @@ Highly skilled and detail-oriented Data Analyst | Experienced in leveraging Data
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vkas-rajpurohit/) 
+[![Portfolio website](https://img.shields.io/badge/-%20Portfolio%20website-red?style=flat&logo=dsf&labelColor=a9d6e5&color=ffadad)](https://prod4.codebasics.io/portfolio/Vkas-Rajpurohit)
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
