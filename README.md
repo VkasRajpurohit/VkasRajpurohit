@@ -4,7 +4,7 @@ Highly skilled and detail-oriented Data Analyst | Experienced in leveraging Data
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vkas-rajpurohit/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=plastic&logo=YouTube&color=%23FF0000)](https://www.youtube.com/@blink_analytix)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=YouTube&color=%23FF0000)](https://www.youtube.com/@blink_analytix)
 [![Portfolio website](https://img.shields.io/badge/-%20Portfolio%20website-red?style=flat&logo=dsf&labelColor=a9d6e5&color=ffadad)](https://prod4.codebasics.io/portfolio/Vkas-Rajpurohit)
 
 
